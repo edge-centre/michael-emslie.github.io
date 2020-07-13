@@ -1,0 +1,91 @@
+---
+title: "Michael Emslie, PhD"
+output: 
+  html_document:
+      theme: spacelab
+date: "`r format(Sys.time(), '%d %B, %Y')`"      
+---
+
+![](https://raw.githubusercontent.com/michael-emslie/michael-emslie.github.io/master/Screenshot%20(12).png)
+
+---
+
+**Dr Michael Emslie is a lecturer in Youth Work at RMIT University** <br>
+michael.emslie@rmit.edu.au <br>
+
+[Orcid](https://orcid.org/0000-0002-0554-0183) <br>
+[ResearchGate](https://www.researchgate.net/profile/Michael_Emslie) <br>
+[The Conversation](https://theconversation.com/profiles/michael-emslie-122939) <br>
+[Linkedin](https://au.linkedin.com/in/michael-emslie-16863621) <br>
+
+---
+
+**Career Highlights**
+
+* 15 years 'hands-on' direct-practice experience in the youth, disability and community work sectors
+* 13+ year career in academia
+* 4 university teaching awards recognizing excellence
+* 5 university qualifications
+* 60+ peer-reviewed publications, reports, conference papers, submissions and book reviews
+
+---
+
+**Overview**
+
+Michael's extensive education, work experience and research demonstrates a long held passion and deep commitment to explore, pursue and promote good practice in human service and in particular youth work. <br>
+
+Michael currently works in academia, in a career that spans more than thirteen years during which time Michael has made a significant and positive impact that includes writing over thirty peer reviewed publications, receiving four teaching awards, and demonstrating excellence in supporting students' educational engagement and attainment particularly through facilitating valuable learning experiences connected to industry and practice. <br>
+
+Prior to taking on full-time work in the university Michael had wide-ranging 'hands-on' experience in the youth, disability and community work sectors for over fifteen years in a variety of roles including housing and crisis work, case work and counselling, and youth and family support, and Michael draws on this rich and diverse 'real-world' knowledge to enrich his teaching and research. <br>
+
+Michael also thrives on engaging in creative and diverse intellectual pursuits directly relevant to practice which is demonstrated by Michael's continued involvement in some type of formal education throughout his work life. In 2019 Michael completed a PhD for which he has produced twelve peer reviewed publications during his candidature. <br>
+
+---
+
+**Academic Roles**
+
+Michael is currently employed as a lecturer in the Youth Work program in the school of Global Urban and Social Studies at RMIT University. <br>
+
+Michael's key academic duties include teaching and Michael invests deeply in inspiring students' learning, nurturing students' capabilities to know and do good practice, and providing life-changing experiences, in particular by delivering quality applied and practice-based approaches to education that include industry connected work integrated learning. <br>
+
+Michael is also heavily involved in many independent and collaborative industry-relevant and creatively designed intellectual adventures and research projects that aim to make a positive and imaginative impact and contribution to the world. <br>
+
+And Michael actively pursues teaching-research-industry nexus activities that include focusing his research efforts on developing ideas and perspectives that are directly relevant to and embedded in his teaching and useful to the communities he serves, and by working closely with and facilitating deep and meaningful partnerships between students and industry to support worthwhile sector based-student placements that deliver benefits for all involved. <br>
+
+---
+
+**Industry Experience**
+
+Michael contributed over fifteen years of dedicated direct practice work in the human service sector before commencing full-time work in the university. <br>
+
+Michael's work as a Youth and Family worker with Crossroads Reconnect was recognised as one of the thirty-six examples of good youth work practice selected to be included in the 'What Works' series commissioned by the Foundation for Young Australians that documented and celebrated best practice in working with young people. <br>
+
+Michael's teaching and research continues this commitment to giving back to the community. For example, many of Michael's publications strongly advocate for improving the pay, working conditions, education, professionalization, resourcing and support for youth and community workers to secure quality practice. <br>
+
+Michael also draws on his years of hands-on experience to champion approaches to teaching and learning and field education that make valuable and much appreciated contributions to students and the human services sector. Michael continuously reflects deeply on his work experiences, research and teaching to ensure it remains relevant, connected, inspiring, creative and worthwhile. <br>
+
+---
+
+**Scholarly Pursuits**
+
+Michael's sustained engagement with a broad range of intellectual endeavours is demonstrated by over thirty peer reviewed publications, over thirty further publications, reports, conference papers, submissions and book reviews, and many qualifications. <br>
+
+Michael's work as a researcher demonstrates a deliberate commitment to produce and share knowledge that will inspire imaginative and good practice and help to positively shape the world, and his writing covers areas of creative research methods, youth studies, LGBTQI+ young people, youth work studies, good practice in human services, professionalization debates, university and higher education, quality teaching and learning, reflective practice, work-integrated learning, technology, ethics, politics, and policy studies. <br>
+
+Michael's latest books released respectively in 2020 and 2018 and co-authored with Dr Michael Crowhurst are titled 'Arts-based Pathways into Thinking: Troubling Standardization/s, Enticing Multiplicities, Inhabiting Creative Imaginings' and 'Working Creatively with Stories and Learning Experience: Engaging with Queerly Identifying Tertiary Students'. Michael's article co-authored with Prof Rob Watts titled 'On Technology and the Prospects for Good Practice in the Human Services: Donald Schön, Martin Heidegger, and the Case for Phronesis and Praxis' was a finalist in the 2018 Fran R. Breul Memorial Prize. <br>
+
+---
+
+**Awards**
+
+* 2015 RMIT School of Global, Urban and Social Studies Higher Degree by Research Candidate Publication Award <br>
+
+* 2012 Australian Government Office for Learning and Teaching Citation for Outstanding Contributions to Student Learning <br>
+
+* 2011 RMIT University School of Global Studies, Social Science and Planning Learning and Teaching Award for Excellence in Teaching in the Human Services Academic Group <br>
+
+* 2010 RMIT University School of Global Studies, Social Science and Planning Learning and Teaching Award for Outstanding Achievement in Understanding Student Difficulties <br>
+
+* 2010 RMIT University Teaching and Learning Award in the category Work Integrated Learning <br>
+
+---
