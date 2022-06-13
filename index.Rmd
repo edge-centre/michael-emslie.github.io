@@ -5,7 +5,7 @@ output:
     theme: spacelab
 ---
 
-![](https://raw.githubusercontent.com/michael-emslie/michael-emslie.github.io/master/Screenshot%20(12).png)
+![](https://raw.githubusercontent.com/edge-centre/michael-emslie.github.io/master/Screenshot%20(12).png)
 
 ---
 
@@ -23,7 +23,7 @@ michael.emslie@rmit.edu.au <br>
 **Career Highlights**
 
 * 15 years 'hands-on' direct-practice experience in the youth, disability and community work sectors
-* 13+ year career in academia
+* 15+ year career in academia
 * 4 university teaching awards recognizing excellence
 * 5 university qualifications
 * 60+ peer-reviewed publications, reports, conference papers, submissions and book reviews
@@ -34,7 +34,7 @@ michael.emslie@rmit.edu.au <br>
 
 Michael's extensive education, work experience and research demonstrates a long held passion and deep commitment to explore, pursue and promote good practice in human service and in particular youth work. <br>
 
-Michael currently works in academia, in a career that spans more than thirteen years during which time Michael has made a significant and positive impact that includes writing over thirty peer reviewed publications, receiving four teaching awards, and demonstrating excellence in supporting students' educational engagement and attainment particularly through facilitating valuable learning experiences connected to industry and practice. <br>
+Michael currently works in academia, in a career that spans more than fifteen years during which time Michael has made a significant and positive impact that includes writing over forty peer reviewed publications, receiving four teaching awards, and demonstrating excellence in supporting students' educational engagement and attainment particularly through facilitating valuable learning experiences connected to industry and practice. <br>
 
 Prior to taking on full-time work in the university Michael had wide-ranging 'hands-on' experience in the youth, disability and community work sectors for over fifteen years in a variety of roles including housing and crisis work, case work and counselling, and youth and family support, and Michael draws on this rich and diverse 'real-world' knowledge to enrich his teaching and research. <br>
 
@@ -68,7 +68,7 @@ Michael also draws on his years of hands-on experience to champion approaches to
 
 **Scholarly Pursuits**
 
-Michael's sustained engagement with a broad range of intellectual endeavours is demonstrated by over thirty peer reviewed publications, over thirty further publications, reports, conference papers, submissions and book reviews, and many qualifications. <br>
+Michael's sustained engagement with a broad range of intellectual endeavours is demonstrated by over forty peer reviewed publications, over thirty further publications, reports, conference papers, submissions and book reviews, and many qualifications. Aspects of this work have generated the [Edge/Centre Research Program](https://edge-centre.github.io/) with Dr Michael Crowhurst. <br>
 
 Michael's work as a researcher demonstrates a deliberate commitment to produce and share knowledge that will inspire imaginative and good practice and help to positively shape the world, and his writing covers areas of creative research methods, youth studies, LGBTQI+ young people, youth work studies, good practice in human services, professionalization debates, university and higher education, quality teaching and learning, reflective practice, work-integrated learning, technology, ethics, politics, and policy studies. <br>
 
