@@ -1,9 +1,8 @@
 ---
 title: "Michael Emslie, PhD"
-output: 
+output:
   html_document:
-      theme: spacelab
-date: "`r format(Sys.time(), '%d %B, %Y')`"      
+    theme: spacelab
 ---
 
 ![](https://raw.githubusercontent.com/michael-emslie/michael-emslie.github.io/master/Screenshot%20(12).png)
